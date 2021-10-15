@@ -1,0 +1,27 @@
+body {
+    background-color: #87BCDE;
+}
+
+.button {
+    border-radius: 20px;
+    border-style: unset;
+    width: 30%;
+    height: 50px;
+    background-color: #4E4D5C;
+}
+
+.button:hover {
+    background-color: #2D4654;
+}
+
+#back {
+    border-radius: 20px;
+    border-style: unset;
+    width: 30%;
+    height: 50px;
+    background-color: #4E4D5C;
+}
+
+canvas {
+    visibility: hidden;
+}
